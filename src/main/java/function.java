@@ -1,5 +1,4 @@
 /*快速排序*/
-
 public class function {
     public static  int[] main(){
         int [] numbers = {0, 2, 9, 10, 87};

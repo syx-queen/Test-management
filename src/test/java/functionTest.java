@@ -11,7 +11,7 @@ public class functionTest {
         //int [] arr1 = {};
         //assertArrayEquals(arr1, function.main());
     }
-    @org.junit.Test
+   // @org.junit.Test
     public void getMiddle() {
         int []numbers1 = {1,2,3};
         int low1 = 0;
@@ -26,5 +26,4 @@ public class functionTest {
         int high3 = 5;
         assertEquals(3,function.getMiddle(numbers3, low3, high3));
     }
-
 }
